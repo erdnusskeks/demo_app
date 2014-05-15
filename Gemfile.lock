@@ -1,4 +1,4 @@
-GEM
+a
   remote: https://rubygems.org/
   specs:
     actionmailer (4.0.4)
@@ -84,7 +84,6 @@ GEM
     sdoc (0.3.20)
       json (>= 1.1.3)
       rdoc (~> 3.10)
-    spring (1.1.2)
     sprockets (2.12.1)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -120,7 +119,6 @@ DEPENDENCIES
   rails_12factor (= 0.0.2)
   sass-rails (= 4.0.1)
   sdoc (= 0.3.20)
-  spring
   sqlite3 (= 1.3.8)
   turbolinks (= 1.1.1)
   uglifier (= 2.1.1)
